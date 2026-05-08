@@ -48,7 +48,7 @@ const ProductViewer = () => {
                 <StudioLights />
                 <directionalLight position={[2, 10, 10]} intensity={1.5} />
                 
-                <ModelSwitcher scale={isMobile? scale-0.03:Number(scale)} isMobile={isMobile}/>
+                <ModelSwitcher scale={Number(scale)} isMobile={isMobile}/>
             </Canvas>
         </section>
     )
