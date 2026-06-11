@@ -12,13 +12,13 @@
 
 ## ✨ Features
 
-• **Hero Section** — Cinematic, full-viewport hero with animated headline and CTA buttons
-• **Interactive 3D Product Viewer** — Real-time WebGL MacBook model rendered with Three.js & React Three Fiber; rotate and explore the product in 3D
-• **Showcase Section** — Immersive full-screen media showcase with scroll-driven GSAP transitions
-• **Performance Section** — Animated chip/performance stats reveal with scroll-synced counters
-• **Features Section** — Highlighting MacBook features with smooth entrance animations
-• **Highlights / Video Gallery** — Apple-style carousel / highlights reel with video playback
-• **Fully Responsive** — Adapts seamlessly from mobile to ultra-wide desktop using `react-responsive`
+• **Hero Section** — Cinematic, full-viewport hero with animated headline and CTA buttons  
+• **Interactive 3D Product Viewer** — Real-time WebGL MacBook model rendered with Three.js & React Three Fiber; rotate and explore the product in 3D  
+• **Showcase Section** — Immersive full-screen media showcase with scroll-driven GSAP transitions  
+• **Performance Section** — Animated chip/performance stats reveal with scroll-synced counters  
+• **Features Section** — Highlighting MacBook features with smooth entrance animations  
+• **Highlights / Video Gallery** — Apple-style carousel / highlights reel with video playback  
+• **Fully Responsive** — Adapts seamlessly from mobile to ultra-wide desktop using `react-responsive`  
 • **Dark-first Design** — Premium dark aesthetic inspired by Apple.com
 
 ---
